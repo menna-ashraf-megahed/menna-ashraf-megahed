@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @menna-ashraf-megahed
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and web
+- 🌱 I’m currently learning python and Front-End
  
  
 
